@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "blog_cover": "https://i.ibb.co.com/nwKGJHB/1.jpg",
+    "author_img": "https://i.ibb.co.com/7ncssvF/boy1.png",
+    "author_name": "Jane Doe",
+    "posted_days": 5,
+    "blog_title": "Understanding API Development",
+    "reading_time": 8,
+    "hashtags": ["API", "Development", "Coding"]
+  },
+  {
+    "id": 2,
+    "blog_cover": "https://i.ibb.co.com/qgrMSDv/2.png",
+    "author_img": "https://i.ibb.co.com/9392fJz/boy2.jpg",
+    "author_name": "John Smith",
+    "posted_days": 12,
+    "blog_title": "A Guide to Web Security",
+    "reading_time": 10,
+    "hashtags": ["Security", "Web", "Cybersecurity"]
+  },
+  {
+    "id": 3,
+    "blog_cover": "https://i.ibb.co.com/k0h9LWp/3.png",
+    "author_img": "https://i.ibb.co.com/Ph8mgvv/girl1.jpg",
+    "author_name": "Alice Brown",
+    "posted_days": 3,
+    "blog_title": "Best Practices for UI/UX Design",
+    "reading_time": 7,
+    "hashtags": ["UI", "UX", "Design"]
+  },
+  {
+    "id": 4,
+    "blog_cover": "https://i.ibb.co.com/Rbj2LX2/4.jpg",
+    "author_img": "https://i.ibb.co.com/b2qgQ4B/girl2.jpg",
+    "author_name": "Michael Johnson",
+    "posted_days": 20,
+    "blog_title": "Introduction to Cloud Computing",
+    "reading_time": 12,
+    "hashtags": ["Cloud", "Computing", "Tech"]
+  }
+]
